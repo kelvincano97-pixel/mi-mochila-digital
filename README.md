@@ -1,10 +1,6 @@
-# mi-mochila-digital
-"🚀 ¡Bienvenido a tu mochila digital! Un espacio lleno de retos, juegos y herramientas para que los pequeños exploradores de primaria conquisten el mundo del aprendizaje."
 # 🎒 ¡Bienvenidos a Mi Mochila Digital! 🌟
-
-
----
-
+"🚀 ¡Bienvenido a tu mochila digital! Un espacio lleno de retos, juegos y herramientas para que los pequeños exploradores de primaria conquisten el mundo del aprendizaje."
+-----
 ### 📂 ¿Qué hay dentro de la mochila?
 Explora las carpetas de arriba para encontrar:
 * **📝 Mis Tareas:** Los ejercicios de la semana.
