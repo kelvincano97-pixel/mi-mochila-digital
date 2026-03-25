@@ -35,4 +35,4 @@ Para que nuestra mochila siempre esté ordenada y feliz:
 3. **Comparte:** Si aprendes algo genial, ¡cuéntaselo a un amigo! 🤝
 
 ---
-> **💡 Nota para los padres:** Este repositorio es una herramienta de apoyo escolar. Si necesitan ayuda técnica o tienen alguna duda, pueden contactarme en: `[tu-correo@ejemplo.com]`
+> **💡 Nota para los padres:** Este repositorio es una herramienta de apoyo escolar. Si necesitan ayuda técnica o tienen alguna duda, pueden contactarme en: `[kcanosal@unicartagena.edu.com]`
